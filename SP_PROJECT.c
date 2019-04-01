@@ -4,6 +4,10 @@
 #include<fcntl.h>
 #include<string.h>
 #include<stdlib.h>
+//SYSTEM PROGRAMMING PROJECT 
+//CAN FIND KEY WORD PASSED THROUGH PARAMETER
+//IN WHOLE LINUX OS.
+//DONE BY MUSSABAHEEN MALIK
 int is_regular_file(const char *path);
 int main(int argc,char *argv[])
 {
